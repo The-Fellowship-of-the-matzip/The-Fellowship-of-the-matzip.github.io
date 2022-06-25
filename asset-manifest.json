@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/mat.zip-front/static/js/main.0afbbf56.js",
-    "static/media/sth-went-wrong.svg": "/mat.zip-front/static/media/sth-went-wrong.f4d0d78855b1e66e33e558eb6ddf2b8f.svg",
-    "static/media/no-image-found.svg": "/mat.zip-front/static/media/no-image-found.871227bddba90bafefa1818f5615de6d.svg",
-    "static/media/logo.svg": "/mat.zip-front/static/media/logo.5bfb1883d1c5b6bcfb920cb3d917dd49.svg",
-    "index.html": "/mat.zip-front/index.html",
-    "main.0afbbf56.js.map": "/mat.zip-front/static/js/main.0afbbf56.js.map"
+    "main.js": "/static/js/main.04183f9c.js",
+    "static/media/sth-went-wrong.svg": "/static/media/sth-went-wrong.f4d0d78855b1e66e33e558eb6ddf2b8f.svg",
+    "static/media/no-image-found.svg": "/static/media/no-image-found.871227bddba90bafefa1818f5615de6d.svg",
+    "static/media/logo.svg": "/static/media/logo.5bfb1883d1c5b6bcfb920cb3d917dd49.svg",
+    "index.html": "/index.html",
+    "main.04183f9c.js.map": "/static/js/main.04183f9c.js.map"
   },
   "entrypoints": [
-    "static/js/main.0afbbf56.js"
+    "static/js/main.04183f9c.js"
   ]
 }
